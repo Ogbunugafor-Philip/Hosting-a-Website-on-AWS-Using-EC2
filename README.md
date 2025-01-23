@@ -1,6 +1,5 @@
 # Hosting-a-Website-on-AWS-Using-EC2
 
-# README
 
 ## Introduction
 This project aims to demonstrate the fundamental concepts of cloud computing by hosting a simple website on Amazon Web Services (AWS). It involves deploying an EC2 instance, configuring security settings with security groups, and optimizing the instance's performance using an EC2 placement group. The project will guide you through the process of setting up a secure and scalable web server environment while ensuring the website is accessible to users over the internet. By the end of this project, you will have a clear understanding of how to use AWS services to deploy and manage a basic website securely.
